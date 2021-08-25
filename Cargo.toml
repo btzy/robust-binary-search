@@ -16,4 +16,5 @@
 members = [
     "robust-binary-search",
     "robust-git-bisect",
+    "rbs-ffi",
 ]

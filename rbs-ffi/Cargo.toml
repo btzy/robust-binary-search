@@ -1,0 +1,10 @@
+[package]
+name = "rbs-ffi"
+version = "0.1.1"
+edition = "2018"
+
+[dependencies]
+robust-binary-search = { path = "../robust-binary-search" }
+
+[lib]
+crate-type = ["cdylib"]
